@@ -59,6 +59,7 @@ from command line:
 	To compile: javac ie/gmit/dip/*.java
 	To run: java ie.gmit.dip.Runner
 
+		
 		#Other Information
 
 In-order to perform the application the following things should be satisfied:		
