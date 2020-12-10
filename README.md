@@ -53,9 +53,9 @@ A Java platform.
 
 		#Installation
 
-From an IDE: navigate to the Runner class and run as a java application
-from command line:
-
+From an IDE: navigate to the Runner class and run as a java application.
+From command line:
+	
 	To compile: javac ie/gmit/dip/*.java
 	To run: java ie.gmit.dip.Runner
 
