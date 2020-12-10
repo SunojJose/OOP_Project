@@ -1,7 +1,7 @@
 # OOP_Project
 A Java Application To Encrypt And Decrypt A Message Using ADFGVX Cypher
 
-#The ADFGVX Cipher
+		#The ADFGVX Cipher
 														
 The ADFGVX Cipher was a field cipher used by the German Army during World War I and was an extension of an earlier cipher called the ADFGX Cipher. The cipher was a fractionating transposition cipher which combined a modified Polybius square with a single columnar transposition.
 
@@ -54,8 +54,9 @@ A Java platform.
 		#Installation
 
 From an IDE: navigate to the Runner class and run as a java application.
-From command line:
-	
+
+From command line: 
+
 	To compile: javac ie/gmit/dip/*.java
 	To run: java ie.gmit.dip.Runner
 
