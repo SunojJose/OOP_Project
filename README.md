@@ -52,9 +52,12 @@ Runner.java contains the main method.
 A Java platform.	
 
 		#Installation
-		
-To compile: javac ie/gmit/dip/*.java
-To run: java ie.gmit.dip.Runner
+
+From an IDE: navigate to the Runner class and run as a java application
+from command line:
+
+	To compile: javac ie/gmit/dip/*.java
+	To run: java ie.gmit.dip.Runner
 
 		#Other Information
 
@@ -66,4 +69,8 @@ In-order to perform the application the following things should be satisfied:
 
 (3)The message/file to decrypt must contain only characters {A,D,F,G,V,X}; and a special character *.
 
-The application is tested and is successful on different input instances. 
+The application is tested and is successful on different input instances.
+
+		#Limitation
+		
+The encoded and decoded messages will be converted to uppercase without any spaces between words.		
