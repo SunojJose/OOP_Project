@@ -1,5 +1,5 @@
 # OOP_Project
-A Java Application To Encrypt And Decrypt A Message Using ADFGVX Cypher
+A Java Application To Encrypt And Decrypt A Message Using ADFGVX Cipher
 
 		#The ADFGVX Cipher
 														
